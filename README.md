@@ -1,0 +1,6 @@
+- 👋 Hi, I’m Hafssi Rayen
+- 👀 I am moderately interested in web development 
+- 🌱 I’m currently learning Responsive Web Design
+- 💞️ I’m looking to collaborate on bulding backend systems with django or flask ...
+- 📫 How to reach my linkedin profil
+- ⚡ Fun fact: I live in france 4 days ago and I have 4 friends
